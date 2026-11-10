@@ -1,0 +1,14 @@
+{
+  "name": "copilot-remote-handoff",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "tsx demo.ts"
+  },
+  "dependencies": {
+    "@github/copilot-sdk": "^1.0.30",
+    "qrcode": "^1.5.4",
+    "tsx": "^4.23.15"
+  }
+}
